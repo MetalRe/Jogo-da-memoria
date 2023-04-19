@@ -1,0 +1,11 @@
+              =====================================================
+              ||                JOGO DE MEMÓRIA                  ||
+              ||                                                 ||
+              ||   Você deve memorizar a sequência de imagens    ||
+              ||       em ASCII art e reproduzi-las depois.      ||
+              ||                                                 ||
+              ||      Use as letras de A a D para escolher       ||
+              ||        a imagem correspondente na sequência.    ||
+              ||                                                 ||
+              ||         Pressione ENTER para começar...         ||
+              =====================================================

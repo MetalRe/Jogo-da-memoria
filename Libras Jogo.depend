@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1681869073 source:/home/simone/Documentos/Libras Jogo/main.cpp
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<iostream>
+	<ctype.h>
+	"libras.h"
+	"AImagem.h"
+	<locale.h>
+
+1681493595 /home/simone/Documentos/Libras Jogo/libras.h
+
+1681594584 /home/simone/Documentos/Libras Jogo/AImagem.h
+	<stdio.h>
+
